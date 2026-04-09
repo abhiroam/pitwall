@@ -1,8 +1,0 @@
-f1_cache/
-data/
-outputs/
-*.sqlite
-*.pkl
-*.csv
-*.png
-*.mp4
